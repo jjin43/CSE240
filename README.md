@@ -1,4 +1,4 @@
-# CSE240
+# CSE 240 Projects
 CSE 240 Projects - Justin Jin 2022
 
 * Assignment 1 - Morse Code Translator
